@@ -278,7 +278,13 @@ header{
 	.learn_more_center{
 		margin: 30px 0;
 	}
-
+	.learn_more_left h1{
+		font-size: 28px;
+	}
+	.learn_more_right h1{
+		font-size: 28px;
+	}
+	
 }
 
 /* mobile section end */
